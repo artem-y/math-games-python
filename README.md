@@ -1,5 +1,5 @@
-# Python Math Games
-Simple math games in python.  
+# Math Games (Python)
+Simple math mini games written in Python.  
 
 This is a collection of small mini-games which are themselves written as an exercise to practice Python. Well, and maybe math as well =)
 
